@@ -6,5 +6,6 @@
 ### Sobre mim :pencil:
 
 - Desde sempre um apaixonado por tecnologia, venho me aventurando no desenvolvimento front end, amando cada desafio que aparece, todo dia algo novo para aprender. :surfer: :heart:
-- Atualmente estudando pela plataforma da [@rocketseat](https://rocketseat.com.br/) 
+- Finalizei o curso Ignite da [@rocketseat](https://rocketseat.com.br/) 
+- Vou deixar aqui o link do meu portfólio, que esta listado todos os meus projetos que estão no ar até o momento🤗 [Portfólio](https://portfolio-mateuso12.vercel.app)
 
