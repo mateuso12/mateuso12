@@ -3,9 +3,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusousas/)](https://www.linkedin.com/in/mateusousas/)
 
 
-### Sobre mim :pencil:
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=mateuso12&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-- Desde sempre um apaixonado por tecnologia, venho me aventurando no desenvolvimento front end, amando cada desafio que aparece, todo dia algo novo para aprender. :surfer: :heart:
-- Finalizei o curso Ignite da [@rocketseat](https://rocketseat.com.br/) 
-- Vou deixar aqui o link do meu portfólio, que esta listado todos os meus projetos que estão no ar até o momento🤗 [Portfólio](https://portfolio-mateuso12.vercel.app)
+### Faça um breve apresentação sobre você
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=mateuso12&color=f8efd4&style=for-the-badge&logo=GitHub">
+
+<p>
+
+Trabalhando atualmente na **Xtrategie**<br/>
+
+Eu sou desenvolvedor **Frontend**.
+  
+Procuro me manter sempre por dentro das novidades, então vão estar vendo por aqui alguns dos projetos que desenvolvo para estudos.
+
+
+</p>
+<hr>
