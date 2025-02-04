@@ -11,7 +11,7 @@
 
 <p>
 
-Trabalhando atualmente na **Xtrategie**<br/>
+Trabalhando atualmente na **iES2**<br/>
 
 Eu sou desenvolvedor **Frontend**.
   
