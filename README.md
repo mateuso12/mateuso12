@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2EA043&height=200&section=header&text=Mateus%20Amaro&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Frontend%20Engineer&descAlignY=60&descSize=22" alt="Mateus Amaro — Senior Frontend Engineer" />
 
 <a href="https://github.com/mateuso12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=2EA043&center=true&vCenter=true&width=620&lines=React+%C2%B7+TypeScript+%C2%B7+Next.js;Interfaces+r%C3%A1pidas%2C+acess%C3%ADveis+e+f%C3%A1ceis+de+manter;Aberto+a+oportunidades+remotas" alt="React, TypeScript, Next.js — aberto a oportunidades remotas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=2EA043&center=true&vCenter=true&width=800&lines=React+%C2%B7+TypeScript+%C2%B7+Next.js;Interfaces+r%C3%A1pidas%2C+acess%C3%ADveis+e+f%C3%A1ceis+de+manter;Aberto+a+oportunidades+remotas" alt="React, TypeScript, Next.js — aberto a oportunidades remotas" />
 </a>
 
 <br/>
