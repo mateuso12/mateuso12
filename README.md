@@ -36,4 +36,6 @@ Liderança da migração e da evolução da interface da plataforma, com foco em
 
 ## Contato
 
-- E-mail: [mateuso12@hotmail.com.br](mailto:mateuso12@hotmail.com.br)
+- LinkedIn: [linkedin.com/in/mateusousas](https://www.linkedin.com/in/mateusousas)
+- Portfólio: [mateusamaro.com](https://mateusamaro.com)
+- E-mail: [mateus.sousas030@gmail.com](mailto:mateus.sousas030@gmail.com)
