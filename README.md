@@ -17,7 +17,7 @@ Atualmente, busco oportunidades remotas como **Senior Frontend Engineer**.
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,firebase,nodejs,git" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,firebase,git" alt="Tecnologias" />
 </p>
 
 React · TypeScript · Next.js · Tailwind CSS · TanStack Query · Zustand · Firebase
