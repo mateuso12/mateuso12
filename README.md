@@ -31,7 +31,6 @@ Liderança da migração e da evolução da interface da plataforma, com foco em
 ## Atualmente
 
 - Cursando pós-graduação em Engenharia de Software;
-- Desenvolvendo ferramentas web para o meu negócio de impressão 3D, a Decolayers;
 - Buscando oportunidades como Senior Frontend Engineer.
 
 ## Contato
